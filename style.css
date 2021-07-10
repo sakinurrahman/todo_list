@@ -14,6 +14,7 @@
   background: #d3efdf;
   padding: 25px;
   max-width: 760px;
+  min-width: 660px;
   margin: 25px auto;
   overflow: hidden;
   border-radius: 10px;
